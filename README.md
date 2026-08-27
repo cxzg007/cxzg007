@@ -5,19 +5,22 @@
 *AI infrastructure engineer researching how agents remember, reason, and remain accountable.*
 
 ```text
-DATA ──> STRUCTURED CONTEXT ──> REASONING ──> ACTION
-              ^                      |
-              |                      v
-         AGENT MEMORY <──> RUNTIME <──> PROVENANCE
+DATA ──> ONTOLOGY & CONTEXT GRAPH ──> REASONING ──> ACTION
+                       ^                    |
+                       |                    v
+             AGENT MEMORY <──> RUNTIME <──> PROVENANCE
+                       |
+                       v
+              CONSTRAINTS & GOVERNANCE
 ```
 
 ---
 
 ## `01 / RESEARCH FOCUS`
 
-I research and build the context layer beneath AI applications—the infrastructure that gives agents structured memory, grounded retrieval, durable execution, and traceable decisions. My current work focuses on context graphs, agent memory, provenance, workflow runtimes, and backend systems for production AI.
+I research and build the context layer beneath AI applications—the infrastructure that turns fragmented data into structured, governed knowledge for agents to remember, reason, and act upon. My current work focuses on ontology engineering, knowledge representation, context graphs, semantic constraints, provenance, durable agent runtimes, and traceable decisions.
 
-`context graphs` · `agent memory` · `provenance` · `durable execution` · `accountable AI`
+`ontology engineering` · `knowledge representation` · `RDF / OWL / SHACL` · `context graphs` · `semantic governance` · `agent memory` · `provenance`
 
 ---
 
@@ -30,12 +33,6 @@ I research and build the context layer beneath AI applications—the infrastruct
 
 ---
 
-## `03 / ENGINEERING SURFACE`
+## `03 / RECENT CONTRIBUTIONS`
 
-`Python` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Redis` · `Elasticsearch` · `Docker` · `Graph Systems` · `RAG` · `Agent Workflows`
-
----
-
-## `04 / ACTIVITY`
-
-![cxzg007 GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cxzg007&theme=transparent)
+![cxzg007 recent GitHub contributions](https://github.pumbas.net/api/contributions/cxzg007?days=31&bgColour=transparent)
